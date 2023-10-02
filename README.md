@@ -1,5 +1,6 @@
 ### [AddMerakiVPN](AddMerakiVPN.ps1) ###
-
+A lancer en temps qu'administrateur\
+\
 "AddMerakiVPN.ps1" permet d'ajouter un VPN (Windows Intégré) pour se connecter à un routeur Meraki.\
 3 variables modifiable:\
 -"ConnectionName", le nom que le VPN aura sur le PC\
